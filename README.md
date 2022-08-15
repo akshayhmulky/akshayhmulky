@@ -1,16 +1,13 @@
-### Hi there 👋
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=2000&color=122994&width=435&lines=Hi%2C+I+am+Akshay+H+Mulky)
 
-<!--
-**akshayhmulky/akshayhmulky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A Software Engineer with a passion for building great software . I have total of 7+ years of IT Industry experience. In my free time, you’ll find me doing Caricatures.
+<br>
+<div>
+  <h4>🏆 Github Profile Trophy</h4>
+    <img src="https://github-profile-trophy.vercel.app/?username=akshayhmulky&column=7"/>
+</div>
 
-Here are some ideas to get you started:
+<br>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://activity-graph.herokuapp.com/graph?username=akshayhmulky&theme=react-dark&area=true)
