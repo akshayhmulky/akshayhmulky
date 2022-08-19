@@ -9,5 +9,3 @@ A Software Engineer with a passion for building great software . I have total of
 
 <br>
 <br>
-
-![](https://activity-graph.herokuapp.com/graph?username=akshayhmulky&theme=react-dark&area=true)
